@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/logistik/static/css/main.944db485.css",
+    "main.js": "/logistik/static/js/main.e437b4c0.js",
+    "static/js/453.8ab44547.chunk.js": "/logistik/static/js/453.8ab44547.chunk.js",
+    "static/media/curved6.jpg": "/logistik/static/media/curved6.a3404381623e4be7c97b.jpg",
+    "static/media/curved14.jpg": "/logistik/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
+    "static/media/waves-white.svg": "/logistik/static/media/waves-white.56607573d7f27cc7c8eb151ea3d5bc67.svg",
+    "static/media/rocket-white.png": "/logistik/static/media/rocket-white.eb923ceffa6a72014f54.png",
+    "static/media/white-curved.jpg": "/logistik/static/media/white-curved.a5b7db662b0b14ab5534.jpg",
+    "static/media/mastercard.png": "/logistik/static/media/mastercard.27fca3e7637a9458fb64.png",
+    "index.html": "/logistik/index.html",
+    "static/media/logo-slack.svg": "/logistik/static/media/logo-slack.7c47c5aa474b5c4fb39fcf05ffb8e4e7.svg",
+    "static/media/logo-xd.svg": "/logistik/static/media/logo-xd.6e37886f94dba0c2967ece68a152e30c.svg",
+    "static/media/logo-invision.svg": "/logistik/static/media/logo-invision.a1062115730dcd10e1c4f4abe7b9ab33.svg",
+    "static/media/logo-spotify.svg": "/logistik/static/media/logo-spotify.e83cf56c9d99a1fdf59e8deb58bbe470.svg",
+    "static/media/logo-jira.svg": "/logistik/static/media/logo-jira.c19fd4e416babfbd0fdb0a794188c601.svg",
+    "static/media/logo-atlassian.svg": "/logistik/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
+    "main.944db485.css.map": "/logistik/static/css/main.944db485.css.map",
+    "main.e437b4c0.js.map": "/logistik/static/js/main.e437b4c0.js.map",
+    "453.8ab44547.chunk.js.map": "/logistik/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.944db485.css",
+    "static/js/main.e437b4c0.js"
+  ]
+}
